@@ -1,4 +1,3 @@
-Here’s your **`README.md`** file content for **Operators and Type Casting in PHP**, written in a traditional, well-structured format:
 
 ---
 
