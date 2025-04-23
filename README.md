@@ -99,5 +99,3 @@ This repository is organized as follows:
 ## Contributing
 
 Feel free to contribute to this tutorial by submitting pull requests or opening issues for suggestions and improvements.
-
-## License
