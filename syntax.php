@@ -1,6 +1,7 @@
 <?php
     echo "Hello, World!";
-?>//full verson of php hello world
+?>
+//full verson of php hello world
 
 <?= "Hello, World!" ?>//short verson of hello world
 
